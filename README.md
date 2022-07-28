@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello World!
+I'm Abranches, and I program while I sleep...
 
-<!--
-**juniorabranches/juniorabranches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+Instructor of Courses and Classes in Web platforms, Businessman, Mobile Developer, Analyst developer.
 
-Here are some ideas to get you started:
+Author of development articles for mobile devices, courses and tutorials on the Web!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=juniorabranches&count_private=true&show_icons=true&custom_title=Github&theme=algolia&layout=compact&border_radius=8"></img>
+
+<h3>Contact me:</h3>
+<a href="mailto:juniorabranches@gmail.com">
+    <img alt="eMail" src="https://img.shields.io/badge/juniorabranches@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/juniorabranches/">
+    <img src="https://img.shields.io/badge/Junior%20Abranches-0e76a8?style=for-the-badge&logo=Linkedin" />
+</a>
